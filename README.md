@@ -5,7 +5,7 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSilva21&layout=compact&langs_count=7&theme=dracula" />
 </div>
  <div style = "display: inline_block"> <br> 
-   <img align = "right" alt = "Rafa-pic" height = "150" style = "border-radius: 50px;" src = "https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+   <img align = "right" alt = "Rafa-pic" height = "150" style = "border-radius: 50px;" src = "20210424_060741/Onedrive-personal\Documentos">
 </div>
   ##
  
@@ -16,3 +16,5 @@
   <a href="https://www.linkedin.com/in/brenosilvaesilva" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
  
 </div> 
+
+
